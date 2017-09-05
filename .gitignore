@@ -100,3 +100,5 @@ dist/
 historical_data/
 notebooks/
 MNIST_data
+/.ipynb_checkpoints/
+/MNIST_data/
