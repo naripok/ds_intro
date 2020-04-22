@@ -7,7 +7,11 @@
 ## Sumário
 
 #### Programação em Python
-- [Introdução ao Python para análise de dados](./intro_py.html) 
+- [Ambientes Virtuais e Instalação](./installation.html)
+- [Introdução ao Python](./intro_py.html)
+- [Introdução ao Numpy](./intro_numpy.html)
+- [Introdução ao Pandas](./intro_pandas.html)
+- [Introdução ao Matplotlib e Seaborn](./intro_mpl.html)
   
 #### Estatística em Python
 - [Variáveis Aleatórias](./random_variables.html)
