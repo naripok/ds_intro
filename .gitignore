@@ -87,18 +87,7 @@ fabric.properties
 ehthumbs.db
 Thumbs.db
 
-.ipynb_checkpoints
-.idea/
-.ipynb_checkpoints/
-/historical_data/*
 build/
-cryptotrader.egg-info/
-cryptotrader/__pycache__/
-cryptotrader/agents/__pycache__/
-cryptotrader/envs/__pycache__/
 dist/
-historical_data/
-notebooks/
-MNIST_data
-/.ipynb_checkpoints/
-/MNIST_data/
+.ipynb_checkpoints
+venv
